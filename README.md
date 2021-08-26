@@ -1,2 +1,5 @@
 # Task2
-Task2
+MYSQL
+NGINX 1.23.5
+PYTHON X
+OPHP Y
